@@ -1,4 +1,4 @@
-# Implementing a Clustering Algorthim using PySpark
+# Implementing a Clustering Algorithm using PySpark
 
 **Spark is a general-purpose, in-memory, distributed processing engine that allows you to process your data efficiently in a distributed fashion.**
 
